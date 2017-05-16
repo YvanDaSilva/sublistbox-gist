@@ -1,0 +1,28 @@
+{
+  "name": "sublistbox-gist",
+  "version": "1.0.0",
+  "authors": [
+    "Yvan da Silva<yvan.m.silva@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:YvanDaSilva/sublistbox-gist.git"
+  },
+  "description": "A simple example on how to replace paper-menu by paper-listbox",
+  "main": "index.html",
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "bower_components"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0",
+    "paper-listbox": "PolymerElements/paper-listbox#^2.0.0",
+    "paper-item": "PolymerElements/paper-item#^2.0.0",
+    "iron-collapse": "PolymerElements/iron-collapse#^2.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
+  },
+  "devDependencies": {
+
+  }
+}
